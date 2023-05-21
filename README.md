@@ -1,6 +1,10 @@
 # AnalyzeNetflixData
 - Analyze Your Netflix Data By Using this simple Program
 
+## How To Run it?
+- All The Tips is on the code
+- You can follow the intruction in that code :D
+ 
 # What This About?
 - A Simple Program that you can Analyze your Netflix Data 
 
