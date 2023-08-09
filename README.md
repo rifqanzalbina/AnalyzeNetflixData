@@ -1,5 +1,5 @@
 # AnalyzeNetflixData
-- Analyze Your Netflix Data By Using this simple Program
+- Analyze Your Netflix Data By Using this Program
 
 ## How To Run it?
 - All The Tips is on the code
