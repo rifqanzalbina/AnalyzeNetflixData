@@ -6,7 +6,7 @@
 - You can follow the intruction in that code :D
  
 # What This About?
-- A Simple Program that you can Analyze your Netflix Data 
+- A Simple Program that you can Analyze your Netflix Data , about time watch, favorite list and soon
 
 ## What are the functions in this program?
 - Can total Watch time
